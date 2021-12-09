@@ -1,0 +1,41 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../static/img/malaria5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+form {
+    text-align: center;
+}
+
+.footer {
+    bottom: 40px;
+    text-align: right;
+    position: relative;
+    padding-right: 40px;
+}
+
+.logo {
+    text-align: left;
+    position: relative;
+    padding-left: 40px;
+}
+
+a {
+    padding: 5px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+hr {
+    color: white;
+    width: 300px;
+}
+
+header {
+    text-align: center;
+    text-shadow: 2px 2px 2px white;
+}
